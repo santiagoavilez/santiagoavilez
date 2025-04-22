@@ -6,7 +6,7 @@
 const Santi = {
   role: "Full Stack Developer",
   focus: "Software Development",
-  passion: "Build startups MVP´s and learn about software development "
+  passion: "Build startups MVP´s and learn about software development"
 };
 ```
 ## Tech Stack
